@@ -29,8 +29,7 @@ public class Pojo2 {
     }
 
     public void setItem(String item2) {
-		fish
-
+		fish232oo
         
 	    {this.item2 = item2;}
     }
