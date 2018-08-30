@@ -32,6 +32,8 @@ public class Pojo2 {
 		fish321
 	    {this.item2 = item2;}
     }
+
+    idw
 }
 
 uuuu
