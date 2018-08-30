@@ -29,11 +29,7 @@ public class Pojo2 {
     }
 
     public void setItem(String item2) {
-    	u
-u
-u
-u
-u
+
 
     }
 }
