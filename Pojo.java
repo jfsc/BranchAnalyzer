@@ -29,8 +29,7 @@ public class Pojo2 {
     }
 
     public void setItem(String item2) {
-        novo
-	this.item2 = item2;
+	    {this.item2 = item2;}
     }
 }
 
