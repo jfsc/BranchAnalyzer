@@ -1,3 +1,3 @@
 nova # conflict
 Estamos mudando para release
-Nova mudancça
+Nova mudancça em NOVA
