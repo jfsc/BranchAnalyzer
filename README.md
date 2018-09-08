@@ -1,3 +1,3 @@
 nova # conflict
 Estamos mudando para release
-Complemente Nova mudancça em NOVA e DEvOspbranch
+omplemente Nova mudancça em NOVA e DEvOspbranch
