@@ -41,4 +41,3 @@ Finally, build and run.
 
 [2] Eclipse. (2018). JGIT. Retrieved October 9, 2018, from https://www.eclipse.org/jgit/
 
-[3] Accioly, P. R. G. (2018). UNDERSTANDING COLLABORATION CONFLICTS CHARACTERISTICS.
