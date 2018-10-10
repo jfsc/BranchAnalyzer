@@ -1,7 +1,11 @@
-Conflict Scenarios
+This mechanism is part of contributions resulting of exploratory case study about use of branches in DevOps environments. 
 
 Jose Fernando - jfsc@cin.ufpe.br
+
 Vinicius Garcia - vcg@cin.ufpe.br
+
+# Objective
+Retrieve the frequency of textual conflicts by branch. 
 
 # Installation
 Getting code
@@ -26,3 +30,12 @@ Choose the intervall in the same file
             Date until = new SimpleDateFormat("yyyy-MM-dd").parse("2017-09-28");
 ```
 Finally, build and run.
+
+
+# References
+
+[1] Bird, Christian, et al. "The promises and perils of mining git." Mining Software Repositories, 2009. MSR'09. 6th IEEE International Working Conference on. IEEE, 2009. [Link](http://cs.queensu.ca/~ahmed/home/teaching/CISC880/F10/papers/MiningGit_MSR2009.pdf).
+
+[2] Eclipse. (2018). JGIT. Retrieved October 9, 2018, from https://www.eclipse.org/jgit/
+
+[3] Accioly, P. R. G. (2018). UNDERSTANDING COLLABORATION CONFLICTS CHARACTERISTICS.
