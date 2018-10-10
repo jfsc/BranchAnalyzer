@@ -5,7 +5,7 @@ Jose Fernando - jfsc@cin.ufpe.br
 Vinicius Garcia - vcg@cin.ufpe.br
 
 # Context
-Branches are historically used to help develop teams on coordinating their parallel development through version control systems tools (ex.Git). BranchAnalyzer help developers to retrieve the frequency of textual conflicts by branch. 
+Branches are historically used to help develop teams on coordinating their parallel development through version control systems tools (ex.Git). BranchAnalyzer help developers to retrieve the frequency of textual conflicts by branch. Thus, providing empirical information about repository
 
 # Objective
 Retrieve the frequency of textual conflicts by branch. 
