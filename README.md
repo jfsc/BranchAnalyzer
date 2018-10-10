@@ -1,4 +1,4 @@
-This tool is part of contributions resulting of exploratory case study about use of branches in DevOps environments. 
+This tool is part of contributions resulting of research about use of branches in DevOps environments. 
 
 Jose Fernando - jfsc@cin.ufpe.br
 
