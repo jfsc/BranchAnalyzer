@@ -1,4 +1,4 @@
-This tool is part of contributions resulting of research about use of branches in DevOps environments from [ASSERTlab](http://assertlab.com/). 
+This tool is part of contributions resulting of research about use of branches in DevOps environments from [ASSERT lab](http://assertlab.com/). 
 
 Jose Fernando - jfsc@cin.ufpe.br
 
